@@ -11,3 +11,7 @@ Updated: 2022-10-11 04:58:42
 
 */
 
+.wp-block-group.alignfull, .wp-block-group.has-background {
+    padding-left: 0;
+    padding-right: 0;
+}
